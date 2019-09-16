@@ -6,7 +6,7 @@ https://archive.org/download/cCloud_20151126/cCloud.mp4
 #EXTINF:0 tvg-name="*Property of cCloudTV.ORG*" tvg-language="English" tvg-country="US" tvg-id="Property of cCloudTV.ORG" tvg-logo="http://media.comicbook.com/2015/09/baneposter2-by-sysmatic-149962.jpg" group-title="Top10",*Property of cCloudTV.ORG* (Top10) (US) (English)
 https://archive.org/download/cCloud_20151126/cCloud.mp4
 
-#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 09-15-2019 22:35:37 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="Welcome to cCloudTV.ORG (Updated 09-15-2019 22:35:37 EST-US) the future of IPTV." tvg-logo="http://s30.postimg.cc/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg" group-title="Announcement",Welcome to cCloudTV.ORG the future of IPTV. (Announcement) (US) (English)
+#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 09-15-2019 22:42:31 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="Welcome to cCloudTV.ORG (Updated 09-15-2019 22:42:31 EST-US) the future of IPTV." tvg-logo="http://s30.postimg.cc/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg" group-title="Announcement",Welcome to cCloudTV.ORG the future of IPTV. (Announcement) (US) (English)
 https://archive.org/download/cCloud_20151126/cCloud.mp4
 
 #EXTINF:0 tvg-name="*Coders needed*" tvg-language="English" tvg-country="US" tvg-id="*Coders needed*" tvg-logo="https://i.imgur.com/X4hjOLT.jpg" group-title="Top10",*Coders needed* (Top10) (US) (English)
@@ -463,7 +463,7 @@ https://videoserver2.org/live/6PcEk0Uk4FwL4iOTQZ_3dg/1568589069/e7093d33e3f0f52b
 https://videoserver1.org/live/dmyCd8UwV6Nph5JaqVkR1w/1568611744/296e56c668bc8bd6b0044d3e4f034153.m3u8|Referer=https%3A%2F%2Fwww.arconaitv.us&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.33
 
 #EXTINF:0 tvg-name="The CW Top10" tvg-language="English" tvg-country="US" tvg-id="The CW Top10" tvg-logo="https://i.imgur.com/cJL5m0Z.jpg" group-title="Top10",The CW Top10 (Top10) (US) (English)
-https://videoserver1.org/live/S0VJmiHSqNsB6QagJioCcQ/1568611630/296e56c668bc8bd6b0044d3e4f034153.m3u8|Referer=https%3A%2F%2Fwww.arconaitv.us&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
+https://videoserver1.org/live/fsioJSwUAVH1BeWAjxtDcA/1568611954/296e56c668bc8bd6b0044d3e4f034153.m3u8|Referer=https%3A%2F%2Fwww.arconaitv.us&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="The Fresh Prince of Bel-Air Ai" tvg-language="English" tvg-country="US" tvg-id="The Fresh Prince of Bel-Air Ai" tvg-logo="https://image.tmdb.org/t/p/w370_and_h556_bestv2/yxd0824mK6iikz7FVntys0DQ66f.jpg" group-title="RandomAirTime 24/7",The Fresh Prince of Bel-Air Ai (RandomAirTime 24/7) (US) (English)
 https://videoserver2.org/live/SOl7lDyXh8NML2ETmdlw8w/1568589072/0666f0acdeed38d4cd9084ade1739498.m3u8|Referer=https%3A%2F%2Fwww.arconaitv.us&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
